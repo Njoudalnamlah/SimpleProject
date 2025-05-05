@@ -3,6 +3,7 @@
 Control a robotic arm using **voice commands** or **web interaction** via USB — directly from your browser!
 
 ## 📦 Project Structure
+---
 .
 ├── ArduinoControl.ino      # Arduino sketch to move 5 servo motors
 ├── scrips.js               # JS script to send serial commands from browser
